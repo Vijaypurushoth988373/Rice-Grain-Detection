@@ -1,1 +1,1 @@
-# rice_grain_detection
+# Rice_Grain_Detection
